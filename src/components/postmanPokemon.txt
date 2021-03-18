@@ -1,0 +1,14 @@
+1.
+https://pokeapi.co/api/v2/pokemon/bulbasaur
+
+2. 
+https://pokeapi.co/api/v2/pokemon/144
+
+3. 
+https://pokeapi.co/api/v2/pokemon-color/pink
+
+4. 
+ https://pokeapi.co/api/v2/pokemon-shape/ball
+
+5.
+https://pokeapi.co/api/v2/type/7
